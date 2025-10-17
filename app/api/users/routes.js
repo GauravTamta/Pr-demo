@@ -6,6 +6,7 @@ export async function GET() {
     { id: 1, name: "Aisha" },
     { id: 2, name: "Ravi" },
     { id: 3, name: "Sara" },
+     { id: 3, name: "Sara" },
   ];
 
   // Return as JSON
